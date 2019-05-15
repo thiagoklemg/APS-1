@@ -1,15 +1,9 @@
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+index - klem
+brecho - klem
+medidas - klem
+dados - kelly
+oqueé - kelly
+app - sims
+marcas - sims
+noticias - diogo
+quemsomos - diogo
