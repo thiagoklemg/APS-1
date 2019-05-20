@@ -1,9 +1,0 @@
-index - klem
-brecho - klem
-medidas - klem
-dados - kelly
-oqueé - kelly
-app - sims
-marcas - sims
-noticias - diogo
-quemsomos - diogo
